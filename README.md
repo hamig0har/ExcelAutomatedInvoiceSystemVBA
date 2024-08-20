@@ -30,3 +30,16 @@ Automated_Invoice_System.xlsm
 |--- Record of Invoices # Logs all issued invoices with key details
 
 
+
+## Installation
+
+To use this Automated Invoice System, you will need:
+
+- **Microsoft Excel** (with macro support enabled)
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/automated-invoice-system.git
+
+
